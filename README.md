@@ -20,7 +20,7 @@
 
 ## 🛠 Tech Stack
 
-<!--
+
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -29,9 +29,9 @@
   <img src="https://img.shields.io/badge/flutter%20-%2340a0ee.svg?&style=for-the-badge&logo=flutter&logoColor=%23fafafa"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
---!>
----
 
+---
+<!--
 ## 📑 My Github Stats:
 
  <div>
@@ -39,3 +39,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocfilho-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocfilho-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+--!>
