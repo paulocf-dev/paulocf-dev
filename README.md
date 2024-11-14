@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="30"/> Hi there, I'm Paulo!</h1>
 
-<!--
-**paulocf-dev/paulocf-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif' width='200'>
 
-Here are some ideas to get you started:
+<a href="https://linkedin.com/in/paulocf92"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/paulocf92"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:pcf.feat@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>📱 ┇ Hybrid Mobile Development student (React Native+TS, Flutter);</li>
+  <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React Native and Flutter;</li>
+  <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
+  <li>🚀 ┇ Adept to #NeverStopLearning movement!
+</ul>
+
+> “Educating the mind without educating the heart is no education at all.”
+― Aristotle
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/dart%20-%2322559c.svg?&style=for-the-badge&logo=dart&logoColor=%23fafafa"/>
+  <img src="https://img.shields.io/badge/flutter%20-%2340a0ee.svg?&style=for-the-badge&logo=flutter&logoColor=%23fafafa"/>
+  <img src="https://img.shields.io/badge/swift%20-%23fafafa.svg?&style=for-the-badge&logo=swift&logoColor=%23f05138"/>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📑 My Github Stats:
+
+ <div>
+  <a href="https://github.com/paulocf92">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocf92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocf92&layout=compact&langs_count=7&theme=dracula"/>
+</div>
